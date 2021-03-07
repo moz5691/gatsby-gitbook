@@ -8,14 +8,14 @@ const config = {
   },
   header: {
     logo: '',
-    logoLink: 'https://adoring-saha-69d432.netlify.app/',
+    logoLink: 'https://www.cloudcode.website/',
     title: "<h1>&nbsp;&nbsp; Cloud & Code</h1>"
      ,
     githubUrl: 'https://github.com',
     helpUrl: '',
     tweetText: '',
     social: `<li>
-		    <a href="https://twitter.com/generalelectric" target="_blank" rel="noopener">
+		    <a href="https://tweeter.com" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
 		        <img  src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
 		      </div>
@@ -55,7 +55,7 @@ const config = {
     title: 'Gatsby Gitbook Boilerplate',
     description: 'Documentation built with Gatsby ',
     ogImage: null,
-    docsLocation: 'https://gitlab.com/moz5691/gatsby-gitbook/-/tree/master/content',
+    docsLocation: 'https://github.com/moz5691/gatsby-gitbook/tree/main/content',
     favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
   },
   pwa: {
